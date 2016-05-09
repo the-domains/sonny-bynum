@@ -1,0 +1,28 @@
+name: Sonny Bynum
+favicon: null
+layout_spectrum: 0.07893336494453251
+typography_spectrum: 0.1711469537112862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7224078867584467
+  lightness: 0.8622986564878374
+  saturation: 0.2771372895222157
+  rhythmicContrast: 0.8934298139065504
+purpose: []
