@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sonny Bynum]]></title>
         <description><![CDATA[Sonny Bynum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonny-bynum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 22:17:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 22:30:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonny-bynum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.sonny.link/</p>]]></description>
+            <link>https://thegrid.ai/sonny-bynum/httpwwwsonnylink/index.html</link>
+            <guid isPermaLink="false">1860c86a-b231-4438-aba2-bbadc1fde6d3</guid>
+            <pubDate>Mon, 09 May 2016 22:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/sonny-bynum/test/index.html</link>
             <guid isPermaLink="false">469a8d62-763d-4008-b623-295e8a656cd0</guid>
             <pubDate>Mon, 09 May 2016 22:17:14 GMT</pubDate>
         </item>
